@@ -17,18 +17,18 @@ This project demonstrates how to design user-friendly interfaces using PyQt5 whi
 
  ## How to Run
  1. Clone this repository:
-    ```bash
-        git clone https://github.com/codewithvikas96-ui/calculator-PyQt5.git
-    ```
+```bash
+git clone https://github.com/codewithvikas96-ui/calculator-PyQt5.git
+```
 2. Navigate to the project folder:
-     ```bash
-           cd calculator-PyQt5
-     ```
+```bash
+cd calculator-PyQt5
+```
 3. Install dependencies:
-   ```bash
-       pip install -r requirements.txt
-   ```
+```bash
+pip install -r requirements.txt
+```
 4. Run the program
-   ```bash
-       python main.py
-   ```
+```bash
+python calculator-PyQt5.py
+```
